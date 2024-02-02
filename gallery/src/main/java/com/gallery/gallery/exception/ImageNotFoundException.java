@@ -1,4 +1,4 @@
-package com.gallery.gallery.utils;
+package com.gallery.gallery.exception;
 
 public class ImageNotFoundException extends RuntimeException {
     public ImageNotFoundException(String message) {

@@ -1,7 +1,6 @@
 package com.gallery.gallery.exception;
 
 import com.gallery.gallery.response.Response;
-import com.gallery.gallery.utils.ImageNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;

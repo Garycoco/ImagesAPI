@@ -3,7 +3,7 @@ package com.gallery.gallery.service;
 import com.gallery.gallery.entity.Gallery;
 import com.gallery.gallery.repository.GalleryRepository;
 import com.gallery.gallery.response.Response;
-import com.gallery.gallery.utils.ImageNotFoundException;
+import com.gallery.gallery.exception.ImageNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
